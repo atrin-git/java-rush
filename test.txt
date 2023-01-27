@@ -1,1 +1,3 @@
 Test file! Hello!
+
+Add new string from IDEA. Lucky?
